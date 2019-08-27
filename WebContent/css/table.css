@@ -1,0 +1,40 @@
+table.vertical-list-table {
+	width: 90%;
+	padding:0px;
+	border-collapse: separate;
+	border-spacing: 0;
+	text-align: left;
+	font-size: 1.4rem;
+	line-height: 1.5;
+	birder-top: 1px solid #ccc;
+	border-left: 1px solid #ccc;
+}
+
+table.vertical-list-table th {
+	width: 25%;
+	padding: 10px 10px 10px 17px;
+	font-weight:400;
+	vertical-align: left;
+	border-right: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	border-top: 1px solid #fff;
+	border-left: 1px solid #fff;
+	background: #005392;
+	color: #ffffff;
+
+}
+
+table.vertical-list-table td {
+	width: 150%;
+	padding: 10px;
+	vertical-align: top;
+	border-right: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+}
+
+table.vertical-list-table, th, td {
+	margin: 3%;
+	border-college: college;
+	border: 1px solid #ccc;
+	line-height: 1.5;
+}
